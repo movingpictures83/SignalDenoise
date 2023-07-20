@@ -1,0 +1,2 @@
+Prefix plugins/SignalDeNoise/example/
+Plugin SignalDeNoise inputfile reports.txt outputfile ./

@@ -1,0 +1,8 @@
+plugins/SignalDeNoise/example/report1.txt
+plugins/SignalDeNoise/example/report2.txt
+plugins/SignalDeNoise/example/report3.txt
+plugins/SignalDeNoise/example/report4.txt
+plugins/SignalDeNoise/example/report5.txt
+plugins/SignalDeNoise/example/report6.txt
+plugins/SignalDeNoise/example/report7.txt
+plugins/SignalDeNoise/example/report8.txt
