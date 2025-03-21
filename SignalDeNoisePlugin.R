@@ -75,7 +75,6 @@ output <- function(outputfile) {
 ggplot(c2, aes(r1, r2, color = r3))+
   geom_point() +
   geom_density_2d(size = 0.75, colour = "black") 
-
 saveRDS(kr, paste(outputfile, "kr.rds", sep="/"))
 saveRDS(c2, paste(outputfile, "c2.rds", sep="/"))
 }
